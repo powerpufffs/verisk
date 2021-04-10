@@ -1,0 +1,27 @@
+{
+  "name": "docker-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies":{
+    "aws-sdk": "^2.862.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "shelljs": "^0.8.4"
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtam2/docker-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtam2/docker-server/issues"
+  },
+  "homepage": "https://github.com/jtam2/docker-server#readme"
+}
