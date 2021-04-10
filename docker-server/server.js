@@ -4,6 +4,7 @@ const cors = require("cors");
 const bodyParser = require("body-parser");
 const { exec } = require('child_process');
 const axios = require('axios');
+require('dotenv').config()
 
 const app = express();
 
