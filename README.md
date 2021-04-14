@@ -1,4 +1,4 @@
-## Verisk Captsone Project Resources
+## Verisk Capstone Project Resources
 
 This repository contains all of the resources that were created by the BYU Verisk Capstone Team in 2020 ~ 2021. 
 
